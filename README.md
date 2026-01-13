@@ -1,6 +1,6 @@
 # Hi, I'm Paula! 👋
 
-**Student at SOŠ IT Banská Bystrica | Aspiring Software and Web Developer**
+**📓Student at SOŠ IT Banská Bystrica | 💻Aspiring Software and Web Developer**
 
 I am a passionate IT student focusing on web development and information technologies. I love building things, solving problems, and constantly learning new tools to grow my career. When I'm not coding, I'm likely organizing school events or working on space-related tech projects!
 
@@ -11,7 +11,7 @@ I am a passionate IT student focusing on web development and information technol
 * 🌐 **Web Dev**: Experimenting with Laravel and MVC architectures.
 
 ### 🛠️ Tech Stack & Skills
-* **Languages**: Python (Advanced), HTML/CSS (Advanced), Laravel (Intermediate), SQL (Intermediate).
+* **Languages**: Laravel (Intermediate), Python (Intermediate), HTML/CSS (Intermediate), SQL (beginner).
 * **Tools**: Git, PgAdmin, Prompt Engineering.
 * **Certifications**: Cisco CCNA 1 & 2, SQL Bootcamp.
 
